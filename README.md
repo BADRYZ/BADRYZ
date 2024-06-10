@@ -5,12 +5,12 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=BADRYZ&theme=" alt="BADRYZ" /></a> </p>
 
 - Je travaille actuellement sur **Projet de stage - PFA**
-- Le dernier projet **Resto-ENSA **
+- Le dernier projet **Resto-ENSA**
 - J'apprends actuellement **JS && Js-Framework**
-- Des questions **Poser des questions sur mes projets ou interroger ChatGPT.**
+- **Posez-moi des questions sur mes projets **
 - Contact **badryzakaria1@gmail.com**
-- Article **Visite mon LinkedIn**
-- ⚡ Fun fact **Caféine est mon carburant**
+- Pour plus d'article:  **Visite mon LinkedIn**
+- Fun fact : **Caféine est mon carburant**
 
 <div> <a href="https://www.linkedin.com/in/zakaria-badry" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://github.com/BADRYZ" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
